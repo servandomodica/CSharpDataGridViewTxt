@@ -1,0 +1,19 @@
+C:\tp2\Proyecto12\Proyecto12\bin\Debug\Proyecto12.exe.config
+C:\tp2\Proyecto12\Proyecto12\bin\Debug\Proyecto12.exe
+C:\tp2\Proyecto12\Proyecto12\bin\Debug\Proyecto12.pdb
+C:\tp2\Proyecto12\Proyecto12\obj\Debug\Proyecto12.Form1.resources
+C:\tp2\Proyecto12\Proyecto12\obj\Debug\Proyecto12.Properties.Resources.resources
+C:\tp2\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csproj.GenerateResource.cache
+C:\tp2\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csproj.CoreCompileInputs.cache
+C:\tp2\Proyecto12\Proyecto12\obj\Debug\Proyecto12.exe
+C:\tp2\Proyecto12\Proyecto12\obj\Debug\Proyecto12.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto12\Proyecto12\bin\Debug\Proyecto12.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto12\Proyecto12\bin\Debug\Proyecto12.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto12\Proyecto12\bin\Debug\Proyecto12.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto12\Proyecto12\obj\Debug\Proyecto12.pdb

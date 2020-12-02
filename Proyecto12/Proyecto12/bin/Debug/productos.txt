@@ -1,0 +1,15 @@
+1
+papas
+23
+2
+manzanas
+56
+3
+mandarinas
+67
+4
+peras
+90
+5
+lechuga
+44
